@@ -65,7 +65,7 @@ The dataset includes various features related to employee demographics, job prof
 - Helpful in classifying employee attrition risk for early interventions 
 
 ✅ Conclusion  
-The logistic regression model identifies key features influencing attrition and can be used to predict potential resignations. With this, HR departments can design focused retention strategies to reduce employee turnover and improve satisfaction.
+The logistic regression model provides a strong baseline for predicting employee attrition, achieving a training accuracy of 83.96%. The analysis highlights key factors such as job level, business travel, promotion history, and monthly income that significantly influence employee retention. These insights can help HR professionals make data-driven decisions to improve workplace policies, design better retention strategies, and reduce turnover.
 
 📈 Future Improvements  
 
