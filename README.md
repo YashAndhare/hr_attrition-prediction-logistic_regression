@@ -67,13 +67,6 @@ The dataset includes various features related to employee demographics, job prof
 ✅ Conclusion  
 The logistic regression model provides a strong baseline for predicting employee attrition, achieving a training accuracy of 83.96%. The analysis highlights key factors such as job level, business travel, promotion history, and monthly income that significantly influence employee retention. These insights can help HR professionals make data-driven decisions to improve workplace policies, design better retention strategies, and reduce turnover.
 
-📈 Future Improvements  
-
-- Include additional behavioral or performance-based features if available  
-- Test alternative models such as Random Forest, SVM, or Gradient Boosting  
-- Build a dashboard for interactive HR reporting  
-- Deploy the model as a web app for real-time attrition prediction  
-
 📦 Tools & Technologies Used  
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
