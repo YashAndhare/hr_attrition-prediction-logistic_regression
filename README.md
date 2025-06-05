@@ -55,7 +55,13 @@ The dataset includes various features related to employee demographics, job prof
 - Employees with fewer years since last promotion were more likely to stay.  
 - High job levels and better salary hikes reduced the likelihood of attrition.  
 - Employees who traveled frequently for business showed higher attrition rates.  
-- The “Sales Executive” role had comparatively higher turnover.  
+- The “Sales Executive” role had comparatively higher turnover.
+
+  📈 Model Performance
+
+- ✅ **Accuracy Achieved**: **83.96%**
+- Balanced performance between precision and recall
+- Helpful in classifying employee attrition risk for early interventions 
 
 ✅ Conclusion  
 The logistic regression model identifies key features influencing attrition and can be used to predict potential resignations. With this, HR departments can design focused retention strategies to reduce employee turnover and improve satisfaction.
