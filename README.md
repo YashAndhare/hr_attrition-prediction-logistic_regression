@@ -60,7 +60,7 @@ The dataset includes various features related to employee demographics, job prof
 
   📈 Model Performance
 
-- ✅ **Accuracy Achieved**: **83.96%**
+✅ **Accuracy Achieved**: **83.96%**
 - Balanced performance between precision and recall
 - Helpful in classifying employee attrition risk for early interventions 
 
