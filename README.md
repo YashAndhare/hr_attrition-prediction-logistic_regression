@@ -1,6 +1,7 @@
 # 🧑‍💼 HR Attrition Prediction using Logistic Regression
 
 📌 Project Overview
+
 This project aims to predict employee attrition using a logistic regression model. By analyzing various HR-related factors such as job role, salary, years at the company, and work environment, the goal is to identify patterns that influence whether an employee is likely to stay or leave. This analysis helps HR departments take proactive steps to improve employee satisfaction and reduce turnover.
 
 📁 Dataset  
