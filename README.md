@@ -36,15 +36,11 @@ The dataset includes various features related to employee demographics, job prof
 **Data Loading**  
 - Loaded the dataset into a Jupyter Notebook using `pandas`.
 
-**Data Cleaning**  
+**Exploratory Data Analysis (EDA)** 
 - Dropped constant columns and unnecessary identifiers  
 - Handled missing values and duplicates  
 - Encoded categorical variables using label encoding and one-hot encoding
 
-**Exploratory Data Analysis (EDA)**  
-- Attrition trends by age, department, income, and job role  
-- Relationship between promotions, training, and turnover  
-- Correlation heatmaps and distribution plots for key variables  
 
 **Model Building**  
 - Applied Logistic Regression for binary classification  
